@@ -1,0 +1,24 @@
+"objectSpecification":[
+     {
+        "source":
+        {
+            "path":["dev-1"],
+            "type":"Connection"
+        },
+        "target":
+        {
+            "path":["dev-2"],
+            "type":"Connection"
+        }
+     },
+     {
+        "source": {
+            "path": ["ABJBUDJ02YNFB"],
+            "type": "AgentGroup"
+        },
+        "target": {
+            "path": ["MNUKBCDD2YNFB"],
+            "type": "AgentGroup"
+        }
+     }
+   ]
