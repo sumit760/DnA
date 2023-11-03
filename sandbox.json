@@ -1,0 +1,24 @@
+"objectSpecification":[
+     {
+        "source":
+        {
+            "path":["sb-1"],
+            "type":"Connection"
+        },
+        "target":
+        {
+            "path":["sb-2"],
+            "type":"Connection"
+        }
+     },
+     {
+        "source": {
+            "path": ["USW1MJ02YNFB"],
+            "type": "AgentGroup"
+        },
+        "target": {
+            "path": ["ABF1MJ02YNFB"],
+            "type": "AgentGroup"
+        }
+     }
+   ]
